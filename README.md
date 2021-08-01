@@ -17,4 +17,4 @@ Lognormal callapse capacity curve fitting of a building
 * E-mail：youtian95@qq.com
 
 * 截图<br>
-![image](https://github.com/youtian95/CurveSkeletons/blob/master/snapshot.png)
+![image](https://github.com/youtian95/CollapseCapacityCurveFitting/blob/main/snapshot.png)
