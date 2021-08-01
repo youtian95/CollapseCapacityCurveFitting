@@ -7,12 +7,12 @@
 Lognormal callapse capacity curve fitting of a building
 
 * 使用需要<br>
-Matlab<br>
+  Matlab<br>
   [Matlab Optimization Toolbox](https://www.mathworks.com/products/optimization.html) 
 
 * 文件<br>
-  src：源代码<br>
-  bin：exe文件(win10)
+  CollFrag.m：CollFrag类<br>
+  Example.m：使用示例文件
 
 * E-mail：youtian95@qq.com
 
